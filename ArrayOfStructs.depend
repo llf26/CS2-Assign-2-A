@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1486229899 source:c:\users\larry\documents\ua classes\cs2\arrayofstructs\main.cpp
+	<iostream>
+	"Tax.hpp"
+
+1486228210 c:\users\larry\documents\ua classes\cs2\arrayofstructs\tax.hpp
+	"TaxDataType.hpp"
+	"TAXCONSTANTS.hpp"
+
+1486225637 c:\users\larry\documents\ua classes\cs2\arrayofstructs\taxdatatype.hpp
+
+1486231570 source:c:\users\larry\documents\ua classes\cs2\arrayofstructs\tax.cpp
+	<iostream>
+	<limits>
+	<cmath>
+	<iomanip>
+	"TaxConstants.hpp"
+	"Tax.hpp"
+
+1486231131 c:\users\larry\documents\ua classes\cs2\arrayofstructs\taxconstants.hpp
+
